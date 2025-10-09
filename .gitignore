@@ -1,0 +1,8 @@
+# Bỏ qua file biên dịch
+*.o
+*.a
+*.so
+main_static
+main_shared
+
+
